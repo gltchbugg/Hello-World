@@ -1,2 +1,3 @@
 # Hello-World
-helloworld for github
+hello-world proj for github
+its for study of github
